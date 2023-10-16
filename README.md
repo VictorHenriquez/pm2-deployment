@@ -8,7 +8,7 @@ steps:
   - uses: actions/checkout@v3
   
   - name: Deploy app
-    uses: victorargento/pm2-deployment@main
+    uses: victorhenriquez/pm2-deployment@main
     with:
       remote-path: "/deployment/api"
       host: 12.34.56.78
