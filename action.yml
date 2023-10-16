@@ -1,5 +1,5 @@
-name: 'PM2 Deployment'
-description: 'Deploy your nodejs or typescript app with PM2'
+name: 'PM2 Meteor Deployment'
+description: 'Deploy your Meteor app with PM2'
 branding:
   icon: "zap"
   color: "yellow"
