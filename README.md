@@ -1,6 +1,6 @@
 # PM2 Meteor Deployment
 
-Deploy your Meteor app with PM2.
+Deploy your Meteor app with PM2. Based in @victorargento/pm2-deployment and @meteorengineer/setup-meteor
 
 ## How to use the action?
 ```yml
