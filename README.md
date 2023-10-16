@@ -1,6 +1,6 @@
-# PM2 Deployment
+# PM2 Meteor Deployment
 
-Deploy your nodejs or typescript app with PM2.
+Deploy your Meteor app with PM2.
 
 ## How to use the action?
 ```yml
