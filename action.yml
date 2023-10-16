@@ -2,7 +2,7 @@ name: 'PM2 Meteor Deployment'
 description: 'Deploy your Meteor app with PM2'
 branding:
   icon: "zap"
-  color: "yellow"
+  color: "black"
 inputs:
   build:  
     required: false
